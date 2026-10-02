@@ -1,2 +1,2 @@
 website:
-https://manuelelizaldi.github.io/
+https://manuel-elizaldi.com/
